@@ -1,1 +1,3 @@
-# messager-app
+# Instant Messager App
+
+Flutter / Pocketbase
